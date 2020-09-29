@@ -1,0 +1,17 @@
+On 22-Mar-2018 13:15:31, the following files were downloaded via the Strong-motion Virtual Data Center.
+Please credit the originating agencies and institutions and Virtual Data Center in any publications or reports that utilize this data.
+
+ftp://strongmotioncenter.org/vdc/PEER/ath/KOBE/KJM-UP.AT2
+ftp://strongmotioncenter.org/vdc/PEER/ath/KOBE/KJM090.AT2
+ftp://strongmotioncenter.org/vdc/PEER/ath/KOBE/KJM000.AT2
+
+http://www.strongmotioncenter.org/vdc/scripts/event.plx?evt=1098
+
+KJMA, Japan	Closest dist to fault: 1.0 km
+	
+JMA station	
+Processing by: PEER	
+Data Available: corrected acceleration only
+
+acceleraciones en cm/s^2   T= .02000 SEC
+
